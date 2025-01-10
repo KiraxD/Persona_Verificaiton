@@ -32,7 +32,7 @@ Persona is an advanced identity verification application leveraging cutting-edge
 ## Installation
 ```bash
 # Clone Repository
-git clone https://github.com/yourusername/persona-verification.git
+git clone https://github.com/KiraxD/persona-verification.git
 
 # Create Virtual Environment
 python -m venv venv
