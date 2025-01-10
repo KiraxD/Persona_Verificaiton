@@ -1,0 +1,8 @@
+flask==2.3.2
+flask-cors==4.0.0
+opencv-python>=4.7.0.72
+numpy>=1.22.0,<1.24
+mediapipe==0.10.7
+deepface==0.0.79
+Werkzeug==2.3.4
+tensorflow==2.12.0
